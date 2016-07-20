@@ -1,19 +1,19 @@
 {
-  "name": "hyperterm-mactabs",
+  "name": "hyperterm-tabby",
   "version": "1.0.0",
-  "description": "Better tab styles for HyperTerm on macOS",
+  "description": "Slightly better tab styles for HyperTerm.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/insanityfarm/hyperterm-mactabs.git"
+    "url": "https://github.com/irstacks/hyperterm-tabby.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Parker Smith <parker@insanityfarm.com>",
+  "author": "IA <rotblauer@gmail.com>",
   "bugs": {
-    "url": "https://github.com/insanityfarm/hyperterm-mactabs/issues"
+    "url": "https://github.com/irstacks/hyperterm-tabby/issues"
   },
   "license": "MIT",
-  "homepage": "https://github.com/insanityfarm/hyperterm-mactabs#readme"
+  "homepage": "https://github.com/irstacks/hyperterm-tabby#readme"
 }
